@@ -1,9 +1,9 @@
-# -Sandwiches
+# Sandwiches
  Sandwiches
- App Domicilios Sandwiches
+#  App Domicilios Sandwiches
 Una aplicación de consola en C que simula un sistema básico de domicilios para sandwiches, permitiendo a los usuarios visualizar el menú, agregar productos al carrito y confirmar pedidos.
 
-Características
+# Características
 Menú interactivo con 5 opciones principales
 
 Catálogo de 6 sandwiches diferentes con precios
@@ -16,7 +16,7 @@ Validaciones de entrada para IDs y cantidades
 
 Interfaz simple y fácil de usar
 
-Menú de Sandwiches
+# Menú de Sandwiches
 $12,000 - Sandwich Jamon/Queso + Papas
 
 $15,000 - Sandwich Pollo + Ensalada
@@ -31,7 +31,7 @@ $25,000 - Sandwich Especial + Combo completo
 
 Costo de domicilio: $4,000
 
- Como usar
+ # Como usar
 Compilación
 bash
 gcc -o domicilios domicilios.c
@@ -49,7 +49,7 @@ Confirmar pedido: Opción 4 - Finaliza la compra
 
 Salir: Opción 5 - Cierra la aplicación
 
- Funcionalidades técnicas
+ # Funcionalidades técnicas
 Lenguaje: C
 
 Estructuras de datos: Arrays para productos y carrito
@@ -60,7 +60,7 @@ Validaciones: IDs entre 1-6, cantidades > 0
 
 Persistencia: Carrito mantiene productos hasta confirmar pedido
 
- Objetivo de aprendizaje
+ # Objetivo de aprendizaje
 Este proyecto demuestra el uso de:
 
 Estructuras de control (if/else, switch)
