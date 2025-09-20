@@ -73,25 +73,8 @@ Validación de entrada de usuario
 
 Diseño de interfaces de consola
 
- Estructura del código
-c
-// Arrays principales
-int precios[6] = {12000, 15000, ...};
-char *productos[6] = {"Sandwich Jamon...", ...};
-int carrito[6] = {0}; // Almacena cantidades
 
-// Lógica principal
-do {
-    // Mostrar menú
-    // Leer opción
-    switch(opcion) {
-        case 1: // Ver menú
-        case 2: // Agregar al carrito
-        case 3: // Ver carrito
-        case 4: // Confirmar pedido
-        case 5: // Salir
-    }
-} while(opcion != 5);
- Contribuciones
+
+
 
 
